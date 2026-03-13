@@ -1,0 +1,1 @@
+SELECT COUNT(*) from mei.mock_roles;

@@ -1,0 +1,1 @@
+INSERT INTO mei.mock_roles ("email","password","role") VALUES ('{{(Table1.newRow || {}).email}}','{{(Table1.newRow || {}).password}}','{{(Table1.newRow || {}).role}}')
